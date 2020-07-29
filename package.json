@@ -1,0 +1,27 @@
+{
+  "name": "iliacus",
+  "version": "0.0.1",
+  "description": "example skynet app that creates a media dag",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NebulousLabs/iliacus.git"
+  },
+  "keywords": [
+    "skynet",
+    "sia",
+    "handshake",
+    "blockchain",
+    "bitcoin",
+    "cloud"
+  ],
+  "author": "David Vorick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NebulousLabs/iliacus/issues"
+  },
+  "homepage": "https://github.com/NebulousLabs/iliacus#readme"
+}
